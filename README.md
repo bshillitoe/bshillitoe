@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats-xi-five-25.vercel.app/api?username=bshillitoe)](https://github.com/bshillitoe/github-readme-stats)
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bshillitoe&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=transparent&langs_count=8" />
+<img align="left" alt="Ben Shillitoe Gitgub stats" src="https://github-readme-stats-ben-shillitoes-projects.vercel.app/api?username=bshillitoe&show_icons=true&hide_border=true" />
