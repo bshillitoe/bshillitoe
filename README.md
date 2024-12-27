@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 😀
 
-<img height=200 align="center" src="https://github-readme-stats-git-master-ben-shillitoes-projects.vercel.app/"/>
+<img height=200 align="center" src="https://github-readme-stats-theta-coral-97.vercel.app/"/>
 
-<img height=200 align="center" src="https://github-readme-stats-git-master-ben-shillitoes-projects.vercel.app/&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=transparent&langs_count=8" />
+<img height=200 align="center" src="https://github-readme-stats-theta-coral-97.vercel.app//&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=transparent&langs_count=8" />
