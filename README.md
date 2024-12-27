@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-😀
-
-[![Anurag's GitHub stats](https://github-readme-stats-ben-shillitoes-projects.vercel.app/)](https://github.com/bshillitoe/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-xi-five-25.vercel.app/api?username=bshillitoe)](https://github.com/bshillitoe/github-readme-stats)
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bshillitoe&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=transparent&langs_count=8" />
